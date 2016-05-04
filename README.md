@@ -1,5 +1,6 @@
 # HighLightText
 Highlight portion of text.
+
 On StackOverflow, after succesful answering of a question about finding correct coordinates of intended portion to highlight, 
 I realized that there might be others who might need to do the same accurately. 
 First of all, it is imperative that we implicitely use GDI DrawText function to measure and draw text. 
