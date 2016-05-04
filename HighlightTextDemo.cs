@@ -68,5 +68,11 @@ namespace HowToHighlightPortionOfText
                 ControlStyles.SupportsTransparentBackColor, true);
             this.UpdateStyles();
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            fontDialog1.ShowDialog();
+            this.Font = fontDialog1.Font;
+        }
     }
 }

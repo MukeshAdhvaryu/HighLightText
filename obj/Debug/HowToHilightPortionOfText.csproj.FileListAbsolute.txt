@@ -9,3 +9,14 @@ D:\Data Organizer\HighLitText\obj\Debug\HighLitText.Properties.Resources.resourc
 D:\Data Organizer\HighLitText\obj\Debug\HowToHilightPortionOfText.csproj.GenerateResource.Cache
 D:\Data Organizer\HighLitText\obj\Debug\HighLitText.exe
 D:\Data Organizer\HighLitText\obj\Debug\HighLitText.pdb
+D:\HighLightText\bin\Debug\HighLitText.exe.config
+D:\HighLightText\obj\Debug\HighLitText.exe
+D:\HighLightText\obj\Debug\HighLitText.pdb
+D:\HighLightText\bin\Debug\HighLitText.exe
+D:\HighLightText\bin\Debug\HighLitText.pdb
+D:\HighLightText\bin\Debug\Microsoft.Data.ConnectionUI.Dialog.dll
+D:\HighLightText\bin\Debug\Microsoft.Data.ConnectionUI.dll
+D:\HighLightText\obj\Debug\HowToHilightPortionOfText.csprojResolveAssemblyReference.cache
+D:\HighLightText\obj\Debug\HowToHighlightPortionOfText.HilightTextDemo.resources
+D:\HighLightText\obj\Debug\HighLitText.Properties.Resources.resources
+D:\HighLightText\obj\Debug\HowToHilightPortionOfText.csproj.GenerateResource.Cache
