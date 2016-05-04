@@ -1,0 +1,11 @@
+D:\Data Organizer\HighLitText\bin\Debug\HighLitText.exe.config
+D:\Data Organizer\HighLitText\bin\Debug\HighLitText.exe
+D:\Data Organizer\HighLitText\bin\Debug\HighLitText.pdb
+D:\Data Organizer\HighLitText\bin\Debug\Microsoft.Data.ConnectionUI.Dialog.dll
+D:\Data Organizer\HighLitText\bin\Debug\Microsoft.Data.ConnectionUI.dll
+D:\Data Organizer\HighLitText\obj\Debug\HowToHilightPortionOfText.csprojResolveAssemblyReference.cache
+D:\Data Organizer\HighLitText\obj\Debug\HowToHighlightPortionOfText.HilightTextDemo.resources
+D:\Data Organizer\HighLitText\obj\Debug\HighLitText.Properties.Resources.resources
+D:\Data Organizer\HighLitText\obj\Debug\HowToHilightPortionOfText.csproj.GenerateResource.Cache
+D:\Data Organizer\HighLitText\obj\Debug\HighLitText.exe
+D:\Data Organizer\HighLitText\obj\Debug\HighLitText.pdb
